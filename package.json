@@ -1,0 +1,16 @@
+{
+  "name": "primeiroprojeto",
+  "version": "1.0.0",
+  "description": "Meu primeiro projeto de NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs",
+    "Projeto",
+    "Inicial"
+  ],
+  "author": "Bruno Pelentir",
+  "license": "ISC"
+}
