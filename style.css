@@ -1,11 +1,18 @@
 body{
     background-color: rgb(204, 136, 0);
-    font-size: larger;
+   font-size: 30px;
+   border-style:dashed;
+   border-color: black;
 }
 h1{
-    color: rgb(11, 7, 0);
-    font-size: 75px
+    color: rgb(107, 68, 1);
+    font-size: 75px;
+    margin-left: 600px;
+    margin-top: 20px;
+    
+    
 }
 p{
-    color: rgb(152, 0, 0);
+    color: rgb(0, 0, 0);
+    margin-left: 550px;
 }
